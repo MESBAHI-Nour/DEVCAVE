@@ -7,7 +7,7 @@ paginate: true
 
 ![Logo OFPPT](images/ofppt-logo.png) ![Logo SoliCode](images/solicode-logo.png)
 
-# Product Backlog
+# Empathie
 
 ## Préparer le blog des lauréats
 
@@ -40,7 +40,7 @@ Nous voulons créer un blog pour les lauréats, mais nous n’avons pas de liste
 
 ## Définition
 
-Le Product Backlog est une liste ordonnée des besoins et fonctionnalités à réaliser pour un produit.
+L’empathie est la capacité de comprendre et de ressentir les émotions et les besoins d’une autre personne en se mettant à sa place.
 
 ---
 
